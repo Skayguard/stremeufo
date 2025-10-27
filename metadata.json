@@ -1,0 +1,8 @@
+{
+  "name": "StreamStudio Pro",
+  "description": "A web-based live streaming studio similar to StreamYard. Manage your camera, screen share, layouts, and branding to create professional broadcasts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
